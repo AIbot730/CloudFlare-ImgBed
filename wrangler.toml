@@ -2,8 +2,6 @@ name = "cloudflare-imgbed"
 main = "functions/_middleware.js"
 compatibility_date = "2024-05-29"
 
-[
-vars
-]
+[vars]
 BASIC_USER = "gFHn*ydg#t"
 BASIC_PASS = "hinwPeCBCre"
